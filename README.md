@@ -1,4 +1,4 @@
-# Express Template
+# Express/Web Socket Template
 
 A template for an empty Express, Node.js Application complete with:
 - Middleware for
@@ -9,6 +9,7 @@ A template for an empty Express, Node.js Application complete with:
   - Controller files to hold definitions for functions called when an endpoint is hit
   - Route files to tie endpoint URIs to functions defined in a controller
   - Adding routes, and by extension controller methods to `server.js`
+  - Managing data sharing through Websockets via `ws`
   
 
 Install dependencies
